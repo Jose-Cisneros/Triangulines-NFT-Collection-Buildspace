@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 353.32 282.413" style="background-color: $BG_COLOR;" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="134.815" cy="104.521" r="15.441" id="gradient-1">
+      <stop offset="0" style="stop-color: rgba(187, 218, 85, 1)"/>
+      <stop offset="1" style="stop-color: rgba(135, 165, 36, 1)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="182.729" cy="89.51" r="21.24" id="gradient-0">
+      <stop offset="0" style="stop-color: #bada55"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </radialGradient>
+  </defs>
+  <path d="M 136.989 33.527 L 251.099 231.171 L 22.879 231.171 L 136.989 33.527 Z" style="fill: $TRIANGLE_COLOR;" transform="matrix(0.999949, -0.010097, 0.010097, 0.999949, 27.039745, 3.240297)" bx:shape="triangle 22.879 33.527 228.22 197.644 0.5 0 1@f6db421a"/>
+  <circle style="filter: none; stroke: url(#gradient-1); fill: rgb(255, 255, 255); paint-order: fill;" cx="134.815" cy="104.521" r="15.441"/>
+  <circle style="paint-order: stroke markers; fill: rgb(255, 255, 255); stroke: url(#gradient-0);" cx="182.729" cy="89.51" r="21.24"/>
+  <circle style="fill: $EYE_COLOR;" cx="182.844" cy="89.308" r="9.529"/>
+  <circle style="fill: $EYE_COLOR;" cx="129.102" cy="99.214" r="6.139" transform="matrix(1.284064, 0, 0, 1.438087, -32.371578, -39.947289)"/>
+  <path style="fill: rgb(40, 28, 28); fill-rule: nonzero;" transform="matrix(0.3714, 1.214975, -1.217874, 0.372286, 401.186066, -246.856903)" d="M 238.392 242.178 A 31.198 31.198 0 0 1 238.392 303.806 A $SMILE 38.72 0 0 0 238.392 242.178 Z" bx:shape="crescent 233.512 272.992 31.198 162 0.823 1@68105cc8"/>
+</svg>
